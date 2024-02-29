@@ -19,7 +19,7 @@ import inspect
 import copy
 import uuid
 import types
-import emd.dnnlib as dnnlib
+import edm.dnnlib as dnnlib
 
 #----------------------------------------------------------------------------
 
